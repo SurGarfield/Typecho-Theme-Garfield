@@ -12,6 +12,7 @@ Garfield主题在2025年6月12日正式开源
 主题pjax文章列表无刷新加载。
 主题适配Links插件，有专属的友链页面。
 
+![演示](https://github.com/SurGarfield/Typecho-Theme-Garfield/blob/main/screenshot.png)
 
 ##附加说明
 主题建议使用typecho1.2.1版本，php7.2+
